@@ -1,6 +1,5 @@
 streamlit
 selenium
 markitdown
-tempfile
 google
 openai
